@@ -1,0 +1,41 @@
+{
+  "nombre": "Colección de Juegos Android",
+  "descripcion": "Una colección de juegos para Android en varios géneros, desde aventuras hasta deportes.",
+  "juegos": [
+    {
+      "nombre": "Juego Aventura",
+      "descripcion": "Un emocionante juego de aventuras con misiones y acción.",
+      "miniatura": "https://via.placeholder.com/120x120?text=Aventura",
+      "poster": "https://via.placeholder.com/400x600?text=Poster+Aventura",
+      "peso": "200 MB"
+    },
+    {
+      "nombre": "Juego Puzzle",
+      "descripcion": "Resuelve puzzles desafiantes para liberar tu mente.",
+      "miniatura": "https://via.placeholder.com/120x120?text=Puzzle",
+      "poster": "https://via.placeholder.com/400x600?text=Poster+Puzzle",
+      "peso": "150 MB"
+    },
+    {
+      "nombre": "Juego Carreras",
+      "descripcion": "Carreras de coches con gráficos impresionantes y velocidad.",
+      "miniatura": "https://via.placeholder.com/120x120?text=Carreras",
+      "poster": "https://via.placeholder.com/400x600?text=Poster+Carreras",
+      "peso": "300 MB"
+    },
+    {
+      "nombre": "Juego Estrategia",
+      "descripcion": "Construye tu imperio y derrota a tus enemigos en este juego de estrategia.",
+      "miniatura": "https://via.placeholder.com/120x120?text=Estrategia",
+      "poster": "https://via.placeholder.com/400x600?text=Poster+Estrategia",
+      "peso": "250 MB"
+    },
+    {
+      "nombre": "Juego Deportes",
+      "descripcion": "Juega al fútbol, baloncesto y más con amigos en línea.",
+      "miniatura": "https://via.placeholder.com/120x120?text=Deportes",
+      "poster": "https://via.placeholder.com/400x600?text=Poster+Deportes",
+      "peso": "400 MB"
+    }
+  ]
+}
