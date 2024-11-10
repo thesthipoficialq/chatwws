@@ -1,32 +1,36 @@
-[
-  {
-    "nombre": "Juego Aventura",
-    "descripcion": "Un emocionante juego de aventuras con misiones y acción.",
-    "imagen": "https://via.placeholder.com/250x200?text=Aventura",
-    "enlace": "https://play.google.com/store/apps/details?id=com.example.juegoa"
-  },
-  {
-    "nombre": "Juego Puzzle",
-    "descripcion": "Resuelve puzzles desafiantes para liberar tu mente.",
-    "imagen": "https://via.placeholder.com/250x200?text=Puzzle",
-    "enlace": "https://play.google.com/store/apps/details?id=com.example.juegopuzzle"
-  },
-  {
-    "nombre": "Juego Carreras",
-    "descripcion": "Carreras de coches con gráficos impresionantes y velocidad.",
-    "imagen": "https://via.placeholder.com/250x200?text=Carreras",
-    "enlace": "https://play.google.com/store/apps/details?id=com.example.juegocarreras"
-  },
-  {
-    "nombre": "Juego Estrategia",
-    "descripcion": "Construye tu imperio y derrota a tus enemigos en este juego de estrategia.",
-    "imagen": "https://via.placeholder.com/250x200?text=Estrategia",
-    "enlace": "https://play.google.com/store/apps/details?id=com.example.juegostrategia"
-  },
-  {
-    "nombre": "Juego Deportes",
-    "descripcion": "Juega al fútbol, baloncesto y más con amigos en línea.",
-    "imagen": "https://via.placeholder.com/250x200?text=Deportes",
-    "enlace": "https://play.google.com/store/apps/details?id=com.example.juegodeportes"
-  }
-]
+{
+  "nombre": "Colección de Juegos Android",
+  "descripcion": "Una colección de juegos para Android en varios géneros, desde aventuras hasta deportes.",
+  "juegos": [
+    {
+      "nombre": "Juego Aventura",
+      "descripcion": "Un emocionante juego de aventuras con misiones y acción.",
+      "imagen": "https://via.placeholder.com/250x200?text=Aventura",
+      "enlace": "https://play.google.com/store/apps/details?id=com.example.juegoa"
+    },
+    {
+      "nombre": "Juego Puzzle",
+      "descripcion": "Resuelve puzzles desafiantes para liberar tu mente.",
+      "imagen": "https://via.placeholder.com/250x200?text=Puzzle",
+      "enlace": "https://play.google.com/store/apps/details?id=com.example.juegopuzzle"
+    },
+    {
+      "nombre": "Juego Carreras",
+      "descripcion": "Carreras de coches con gráficos impresionantes y velocidad.",
+      "imagen": "https://via.placeholder.com/250x200?text=Carreras",
+      "enlace": "https://play.google.com/store/apps/details?id=com.example.juegocarreras"
+    },
+    {
+      "nombre": "Juego Estrategia",
+      "descripcion": "Construye tu imperio y derrota a tus enemigos en este juego de estrategia.",
+      "imagen": "https://via.placeholder.com/250x200?text=Estrategia",
+      "enlace": "https://play.google.com/store/apps/details?id=com.example.juegostrategia"
+    },
+    {
+      "nombre": "Juego Deportes",
+      "descripcion": "Juega al fútbol, baloncesto y más con amigos en línea.",
+      "imagen": "https://via.placeholder.com/250x200?text=Deportes",
+      "enlace": "https://play.google.com/store/apps/details?id=com.example.juegodeportes"
+    }
+  ]
+}
