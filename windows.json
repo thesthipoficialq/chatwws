@@ -1,0 +1,14 @@
+{
+  "isos": [
+    {
+      "name": "Windows 10 Home",
+      "version": "21H2",
+      "url": "https://example.com/windows10-home.iso"
+    },
+    {
+      "name": "Windows 11 Pro",
+      "version": "22H2",
+      "url": "https://example.com/windows11-pro.iso"
+    }
+  ]
+}
