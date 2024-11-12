@@ -1,0 +1,14 @@
+{
+  "isos": [
+    {
+      "name": "Office 2021 Home and Student",
+      "version": "2021",
+      "url": "https://example.com/office2021-home-student.iso"
+    },
+    {
+      "name": "Office 365",
+      "version": "2023",
+      "url": "https://example.com/office365.iso"
+    }
+  ]
+}
