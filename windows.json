@@ -1,9 +1,9 @@
 {
   "isos": [
     {
-      "name": "Windows 10 Home",
-      "version": "21H2",
-      "url": "https://example.com/windows10-home.iso"
+      "name": "Windows 10",
+      "version": "22H2",
+      "url": "es-mx_windows_10_consumer_editions_version_22h2_updated_oct_2024_x64_dvd_d0cfb2e9.iso"
     },
     {
       "name": "Windows 11 Pro",
